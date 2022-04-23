@@ -20,6 +20,7 @@
 // git commit -m "test: add cypress e2e testing framework"
 // git remote set-url origin https://github.com/Nodosy/cypress-realworld-testing-todomvc
 // git remote -v
+// git push origin master
 
 describe("React TodoMVC", () => {
   const TODO_ITEM_ONE = "Buy Milk";
